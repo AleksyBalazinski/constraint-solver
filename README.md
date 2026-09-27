@@ -3,11 +3,7 @@ Experimenting with the modeling methods described in [Erin Catto's presentation]
 
 ## Demo
 ### Double pendulum
-<video src="assets/double-pendulum.mp4" controls width="50%">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/16e2bd96-22e8-421b-a9e1-7c1f16bc516a
 
 ### Chain
-<video src="assets/chain.mp4" controls width="50%">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/d4478bea-242e-4305-8c49-f76a97a81737
