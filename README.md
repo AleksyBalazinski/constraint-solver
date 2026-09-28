@@ -3,7 +3,7 @@ Experimenting with the modeling methods described in [Erin Catto's presentation]
 
 ## Demo
 ### Double pendulum
-https://github.com/user-attachments/assets/16e2bd96-22e8-421b-a9e1-7c1f16bc516a
+https://github.com/user-attachments/assets/f839696f-0af1-494e-bec9-ee5f812ae16a
 
 ### Chain
-https://github.com/user-attachments/assets/d4478bea-242e-4305-8c49-f76a97a81737
+https://github.com/user-attachments/assets/2b1a150d-bbde-4c2d-9b10-5e03e0af7c6a
